@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/orbis/static/css/main.51f0b645.chunk.css",
-    "main.js": "/orbis/static/js/main.c4c8fdf9.chunk.js",
-    "main.js.map": "/orbis/static/js/main.c4c8fdf9.chunk.js.map",
+    "main.css": "/orbis/static/css/main.5e59d6cd.chunk.css",
+    "main.js": "/orbis/static/js/main.b2717fcf.chunk.js",
+    "main.js.map": "/orbis/static/js/main.b2717fcf.chunk.js.map",
     "runtime-main.js": "/orbis/static/js/runtime-main.ceefd548.js",
     "runtime-main.js.map": "/orbis/static/js/runtime-main.ceefd548.js.map",
     "xlsx.js": "/orbis/static/js/xlsx.6de166cf.chunk.js",
     "xlsx.js.map": "/orbis/static/js/xlsx.6de166cf.chunk.js.map",
     "static/css/3.a4deadbc.chunk.css": "/orbis/static/css/3.a4deadbc.chunk.css",
-    "static/js/3.97a2d97d.chunk.js": "/orbis/static/js/3.97a2d97d.chunk.js",
-    "static/js/3.97a2d97d.chunk.js.map": "/orbis/static/js/3.97a2d97d.chunk.js.map",
+    "static/js/3.a26b7f95.chunk.js": "/orbis/static/js/3.a26b7f95.chunk.js",
+    "static/js/3.a26b7f95.chunk.js.map": "/orbis/static/js/3.a26b7f95.chunk.js.map",
     "static/js/4.61ee4cdb.chunk.js": "/orbis/static/js/4.61ee4cdb.chunk.js",
     "static/js/4.61ee4cdb.chunk.js.map": "/orbis/static/js/4.61ee4cdb.chunk.js.map",
     "static/js/5.13ee3314.chunk.js": "/orbis/static/js/5.13ee3314.chunk.js",
@@ -17,11 +17,11 @@
     "static/js/6.3f5f1de8.chunk.js": "/orbis/static/js/6.3f5f1de8.chunk.js",
     "static/js/6.3f5f1de8.chunk.js.map": "/orbis/static/js/6.3f5f1de8.chunk.js.map",
     "index.html": "/orbis/index.html",
-    "precache-manifest.0bdfd8fc684cdd8c36827ffb3b4413dd.js": "/orbis/precache-manifest.0bdfd8fc684cdd8c36827ffb3b4413dd.js",
+    "precache-manifest.3ddcf1f61e2dc169745505d585b5aa05.js": "/orbis/precache-manifest.3ddcf1f61e2dc169745505d585b5aa05.js",
     "service-worker.js": "/orbis/service-worker.js",
     "static/css/3.a4deadbc.chunk.css.map": "/orbis/static/css/3.a4deadbc.chunk.css.map",
-    "static/css/main.51f0b645.chunk.css.map": "/orbis/static/css/main.51f0b645.chunk.css.map",
-    "static/js/3.97a2d97d.chunk.js.LICENSE.txt": "/orbis/static/js/3.97a2d97d.chunk.js.LICENSE.txt",
+    "static/css/main.5e59d6cd.chunk.css.map": "/orbis/static/css/main.5e59d6cd.chunk.css.map",
+    "static/js/3.a26b7f95.chunk.js.LICENSE.txt": "/orbis/static/js/3.a26b7f95.chunk.js.LICENSE.txt",
     "static/js/5.13ee3314.chunk.js.LICENSE.txt": "/orbis/static/js/5.13ee3314.chunk.js.LICENSE.txt",
     "static/js/6.3f5f1de8.chunk.js.LICENSE.txt": "/orbis/static/js/6.3f5f1de8.chunk.js.LICENSE.txt",
     "static/media/Churn.173ecb00.svg": "/orbis/static/media/Churn.173ecb00.svg",
@@ -102,8 +102,8 @@
   "entrypoints": [
     "static/js/runtime-main.ceefd548.js",
     "static/css/3.a4deadbc.chunk.css",
-    "static/js/3.97a2d97d.chunk.js",
-    "static/css/main.51f0b645.chunk.css",
-    "static/js/main.c4c8fdf9.chunk.js"
+    "static/js/3.a26b7f95.chunk.js",
+    "static/css/main.5e59d6cd.chunk.css",
+    "static/js/main.b2717fcf.chunk.js"
   ]
 }
